@@ -1,0 +1,91 @@
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+
+.certificate {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.certificate .certificate__notecard {
+  padding: 16px;
+  width: 450px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  position: relative;
+}
+
+.certificate__notecard h1 {
+  margin: 0;
+}
+
+.certificate__notecard hr {
+  display: block;
+  border: none;
+  height: 1px;
+  background: black;
+  /*
+    This is a gradient running from white -> black (50%) -> white. Creates the effect
+    of a bevelled edge on the hr.
+  */
+  background: linear-gradient(to right, white, black, white)
+}
+
+.field-list {
+  list-style-type: none;
+  margin-top: 30px;
+  margin-left: 8px;
+  padding: 0;
+}
+
+.field-list .field-list__row {
+  margin-bottom: 16px;
+}
+
+.field-list .field-list__label {
+  width: 80px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.field-list .field-list__value {
+  border-bottom: 1px solid #333;  
+  display: inline-block;
+  /*
+   We set a width here to force word-wrapping for very long values.
+   This width (should) cause the underlines to end just under the edge
+   of the photo container.
+  */
+  width: 225px;
+}
+
+.certificate__photo {
+  background-color: #E4E5E0;
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  display: inline-block;
+  position: absolute;
+  right: -96px;
+  top: 84px;
+  transform: rotate(2.5deg);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.certificate__photo .photo__image {
+  width: 200px;
+  height: 200px;
+}
+.certificate__photo .photo__caption {
+  height: 48px;
+  font-size: 16px;
+}
+
+.photo__caption a {
+  position: relative;
+  top: -6px;
+  color: #584288;
+}
