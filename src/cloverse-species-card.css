@@ -2,6 +2,7 @@ body {
   width: 100%;
   height: 100%;
   font-family: Arial, Helvetica, Sans-Serif;
+  color: #333;
 }
 
 .certificate {
@@ -9,10 +10,23 @@ body {
   margin: 0px auto;
 }
 
+.certificate .certificate__stamp {
+  margin-bottom:-16px;
+  width: 128px;
+  position: relative;
+  left: 186px;
+  z-index: 2;
+}
+.certificate .certificate__stamp img {
+  width: 100px;
+  height: 100px;
+}
+
 .certificate .certificate__notecard {
   padding: 16px;
+  padding-top: 32px;
   width: 450px;
-  background-color: white;
+  background-color: #fcf9f4;
   border-radius: 15px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   position: relative;
@@ -52,7 +66,7 @@ body {
 }
 
 .field-list .field-list__value {
-  border-bottom: 1px solid #333;  
+  border-bottom: 1px solid rgb(179, 161, 148);  
   display: inline-block;
   /*
    We set a width here to force word-wrapping for very long values.
@@ -63,7 +77,7 @@ body {
 }
 
 .certificate__photo {
-  background-color: #E4E5E0;
+  background-color: #ffffff;
   padding-top: 24px;
   padding-left: 24px;
   padding-right: 24px;
@@ -72,7 +86,7 @@ body {
   right: -96px;
   top: 84px;
   transform: rotate(2.5deg);
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 .certificate__photo .photo__image {
@@ -80,12 +94,57 @@ body {
   height: 200px;
 }
 .certificate__photo .photo__caption {
+  margin-top: 1rem;
   height: 48px;
-  font-size: 16px;
+  font-size: 1.2rem;
+}
+
+.certificate__photo .photo__caption i.fas {
+  font-size: 1.4rem;
 }
 
 .photo__caption a {
-  position: relative;
-  top: -6px;
   color: #584288;
+}
+
+.photo__tack {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: -32px;
+  margin-right: -32px;
+  right: 100px;
+}
+
+.certificate__tabs .tab-list {
+  list-style-type: none;
+  margin-top: 0;
+}
+
+.certificate__tabs .tab-list li {
+  padding-top: 15px;
+  padding-bottom: 8px;
+  display: inline-block;
+  width: 55px;
+  font-size: 1.8rem;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #f1e7da;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  cursor: pointer;
+}
+
+.fa-discord {
+  color: #738adb;
+}
+
+.fa-deviantart {
+  color: #5EAC74;
+}
+.fa-patreon {
+  color: #F96854;
+}
+.fa-code {
+  color: #BBB;
 }

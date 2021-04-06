@@ -1,0 +1,16 @@
+{
+  "name": "toyhouse-profiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:owlscape/toyhouse-profiles.git",
+  "author": "Collin Driscoll <provinite@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
