@@ -1,0 +1,181 @@
+<!-- ------------------------------------
+
+
+
+				CODE BY : @coldioc
+
+
+
+------------------------------------- -->
+<div class="mx-auto">
+	<div class="row no-gutters" style="margin:-4px;">
+
+		<!-- ------------------------------------
+
+
+                 LEFT COLUMN
+
+
+------------------------------------- -->
+		<div class="col-lg-3 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<!--  FOCAL IMAGE  ------------------------------------- -->
+				<div class="text-center">
+
+					<img src="https://i.imgur.com/e5DfnI8.jpg">
+
+				</div>
+				<hr class="my-3">
+
+
+
+				<!--  INFO  ------------------------------------- -->
+				<div class="mx-0">
+
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">species</span>
+						<span>Earth Ponies</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">age</span>
+						<span>Adult</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">height</span>
+						<span>Tall</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">gender</span>
+						<span>Female</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pronouns</span>
+						<span>She / Her</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">sexuality</span>
+						<span>Pansexual</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">cutie mark</span>
+						<span>Cactus with a yellow flower</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">occupation</span>
+						<span>Crafter, Pottery Workshop Teacher</span>
+					</div>
+					
+					<hr class="my-3">
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">designer</span>
+						<span><a href="https://www.deviantart.com/superkitsch">Superkitsch</a></span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">worth</span>
+						<span>$10 usd</span>
+					</div>
+
+				</div>
+			</div>
+		</div>
+		<!-- ------------------------------------
+
+
+                 RIGHT COLUMN
+
+
+------------------------------------- -->
+
+		<div class="col-lg-9 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<div class="justify-content-between" style="font-size:150%;">
+					<span class="font-weight-bold;">Rainbow Dust</span>
+					<span class="text-muted" style="font-style:italic;">Insightful • Hungry • Squishy</span>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- SUMMARY ------------------------------------->
+
+				<p>Rainbow moved here as a young adult trying to make it on her own. She was pleasant surprised by the diversity and learned how to be a crafts pony from the local cervine. She now helps run a workshop as a manager and teaches classes there for interested parties. She's a good team leader and great at handling other people's emotions.</p>
+
+				<!-- LIKES / DISLIKES ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Likes</p>
+						<ul>
+							<li>Sunsets</li>
+							<li>Bird Songs</li>
+							<li>Pancakes</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Dislikes</p>
+						<ul>
+							<li>Large fires</li>
+							<li>Kiwi Fruits</li>
+							<li>Hustle and bustle culture</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- BOTTOM IMAGE ------------------------------------->
+
+				<img src="https://i.imgur.com/OdoRjLM.png" class="float-right mb-3" style="max-width: 500px">
+
+				<!-- TRIVIA ------------------------------------->
+
+				<p class="font-weight-bold pb-0 mb-0">Trivia</p>
+				<ul>
+					<li>Loves kids and her favorite classes are with them.</li>
+					<li>Would literally live off of pancakes if she could.</li>
+					<li>Sings very loudly in the shower. And everywhere.</li>
+				</ul>
+
+				<!-- PLAYLIST ------------------------------------->
+
+				<p class="font-weight-bold mb-0">Playlist</p>
+
+				<div class="col-lg-4 pl-3 py-1">
+
+					<ul class="list-unstyled ml-3 mb-3">
+						<li><a href="https://open.spotify.com/track/113vSUnh7fsCbSRNgEH0to?si=db7109e188d94924"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"High Road" - Kesha</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/2VQzy5hIet7TpNop2MSFgN?si=5b82717405e3489b"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Wildflowers" - Maddie Poppe</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/50pJjHSDBz8DnHYAmHzqQ6?si=f1028da9331d44c9"><i class="fas fa-play mr-3"></i><span class="text-muted">"Come Together" - Echosmith</span></a></li>
+					</ul>
+
+
+				</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="text-right p-1" style="font-size:10px;">
+	<a class="tooltipster" title="code by coldioc" href="https://toyhou.se/queercatte"><i class="fal fa-star"></i>
+	</a>
+</div>
