@@ -1,0 +1,216 @@
+<!-- ------------------------------------
+
+
+
+				CODE BY : @coldioc
+
+
+
+------------------------------------- -->
+<div class="mx-auto">
+	<div class="row no-gutters" style="margin:-4px;">
+
+		<!-- ------------------------------------
+
+
+                 LEFT COLUMN
+
+
+------------------------------------- -->
+		<div class="col-lg-3 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<!--  FOCAL IMAGE  ------------------------------------- -->
+				<div class="text-center">
+
+					<img src="https://i.imgur.com/Rq3Wlnt.png">
+
+				</div>
+				<hr class="my-3">
+
+
+
+				<!--  INFO  ------------------------------------- -->
+				<div class="mx-0">
+
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pkmn species</span>
+						<span>Teddiursa</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">age</span>
+						<span>Adult</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">height</span>
+						<span>Average Teddiursa</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">gender</span>
+						<span>Female</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pronouns</span>
+						<span>She / Her</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">sexuality</span>
+						<span>Bisexual</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">type</span>
+						<span>Normal</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">nature</span>
+						<span>Hasty</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">ability</span>
+						<span>Quick Feet</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">held item</span>
+						<span>Pokenip</span>
+					</div>
+
+					<hr class="my-3">
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">designer</span>
+						<span>@Flipside</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">worth</span>
+						<span>Not available for trade or sale.</span>
+					</div>
+					
+					<br><br><br><br>
+						<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/44458337_0gyjNMCQOFjUu04.png">
+
+				</div>
+			</div>
+		</div>
+		<!-- ------------------------------------
+
+
+                 RIGHT COLUMN
+
+
+------------------------------------- -->
+
+		<div class="col-lg-9 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<div class="justify-content-between" style="font-size:150%;">
+					<span class="font-weight-bold;">Ashiursa</span>
+					<span class="text-muted" style="font-style:italic;">Smug • Prankster • Greedy</span>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- SUMMARY ------------------------------------->
+
+				<p>Ashiusrsa is a pretty high powered guild memeber of the Golem Guild. She is a part of the Stardust team with her mate Prov, a rather large dragonite. She knows her small adorable stature always catches pokemon off guard and fully uses it to her advantage. If she ever gets into too much trouble that she can't fend off herself, she'll always go running to her dragonite!</p>
+				<hr class="my-3">
+				<!-- MOVESET ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Moveset</p>
+						<ul>
+							<li>Fake Tears</li>
+							<li>Dig</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold"></p>
+						<ul>
+							<li>Slash</li>
+							<li>Play Rough</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- LIKES / DISLIKES ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Likes</p>
+						<ul>
+							<li>Treaure and Loot</li>
+							<li>Big beds</li>
+							<li>Scritches from Prov</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Dislikes</p>
+						<ul>
+							<li>Winter, Snow, and Ice</li>
+							<li>Medicine</li>
+							<li>Asking for permission</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- BOTTOM IMAGE ------------------------------------->
+
+				<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/29273474_HTX40qrJQgbsknF.png?1622752944" class="float-right mb-3" style="max-width: 500px">
+
+				<!-- TRIVIA ------------------------------------->
+
+				<p class="font-weight-bold pb-0 mb-0">Trivia</p>
+				<ul>
+					<li>Most teddiursa love honey, this one prefers salt! Give her a salt lick and she'll be your bestie.</li>
+					<li>Can easily be distracted by shiny / valuable things.</li>
+					<li>Is in a monogomous relationship with Prov Dragonite. She also only works with him.</li>
+				</ul>
+
+				<!-- PLAYLIST ------------------------------------->
+
+				<p class="font-weight-bold mb-0">Playlist</p>
+
+				<div class="col-lg-4 pl-3 py-1">
+
+					<ul class="list-unstyled ml-3 mb-3">
+						<li><a href="https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt?si=935e55719dc3485f"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Shake It Off" - Taylor Swift</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX?si=b4dc248436c74b6f"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Good Time" - Owl City, Carly Rae Jepsen</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/1pxxPZdDJmfrPdL1bWFbg4?si=b203f8d44a26401e"><i class="fas fa-play mr-3"></i><span class="text-muted">"Brave Face" - Frank Turner</span></a></li>
+					</ul>
+
+
+				</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="text-right p-1" style="font-size:10px;">
+	<a class="tooltipster" title="code by coldioc" href="https://toyhou.se/queercatte"><i class="fal fa-star"></i>
+	</a>
+</div>
