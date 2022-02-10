@@ -1,0 +1,216 @@
+<!-- ------------------------------------
+
+
+
+				CODE BY : @coldioc
+
+
+
+------------------------------------- -->
+<div class="mx-auto">
+	<div class="row no-gutters" style="margin:-4px;">
+
+		<!-- ------------------------------------
+
+
+                 LEFT COLUMN
+
+
+------------------------------------- -->
+		<div class="col-lg-3 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<!--  FOCAL IMAGE  ------------------------------------- -->
+				<div class="text-center">
+
+					<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/4360_GuRJtjGEQfQw8fk.png?1622754068">
+
+				</div>
+				<hr class="my-3">
+
+
+
+				<!--  INFO  ------------------------------------- -->
+				<div class="mx-0">
+
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pkmn species</span>
+						<span>Magikarp</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">age</span>
+						<span>Adult</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">height</span>
+						<span>Large Magikarp</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">gender</span>
+						<span>Male</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pronouns</span>
+						<span>He / Him</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">sexuality</span>
+						<span>Heterosexual</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">type</span>
+						<span>Water</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">nature</span>
+						<span>Brave</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">ability</span>
+						<span>Swift Swim</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">held item</span>
+						<span>None</span>
+					</div>
+
+					<hr class="my-3">
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">designer</span>
+						<span>@Flipside</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">worth</span>
+						<span>Not available for trade or sale.</span>
+					</div>
+					
+					<br><br><br><br>
+						<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/4362_rgYPmXzaEszSwPU.png?1622754068">
+
+				</div>
+			</div>
+		</div>
+		<!-- ------------------------------------
+
+
+                 RIGHT COLUMN
+
+
+------------------------------------- -->
+
+		<div class="col-lg-9 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<div class="justify-content-between" style="font-size:150%;">
+					<span class="font-weight-bold;">Fluke</span>
+					<span class="text-muted" style="font-style:italic;">Charming • Loyal • Rebel</span>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- SUMMARY ------------------------------------->
+
+				<p>Fluke is just a very happy shiny magikarp. I have always loved this pokemon and like to occasionally get artwork of my fav! So this is my iconic fav pokemon~🎔</p>
+				<hr class="my-3">
+				<!-- MOVESET ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Moveset</p>
+						<ul>
+							<li>Splash</li>
+							<li>---</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold"></p>
+						<ul>
+							<li>---</li>
+							<li>---</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- LIKES / DISLIKES ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Likes</p>
+						<ul>
+							<li>Baked goods for treats</li>
+							<li>Sun showers</li>
+							<li>Rainbows</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Dislikes</p>
+						<ul>
+							<li>Cold weather</li>
+							<li>Bullies</li>
+							<li>Being dirty</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- BOTTOM IMAGE ------------------------------------->
+
+				<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/11852328_UxoJTzKViKHQQ6y.png?1622753551" class="float-right mb-3" style="max-width: 500px">
+
+				<!-- TRIVIA ------------------------------------->
+
+				<p class="font-weight-bold pb-0 mb-0">Trivia</p>
+				<ul>
+					<li>Has been taught to do a little dance, whenever he's upset if you start the dance he will always finish it regardless how upset he is.</li>
+					<li>Is extremely affectionate and still wants to cuddle underwater.</li>
+					<li>Has a alternative plush animal form!</li>
+				</ul>
+
+				<!-- PLAYLIST ------------------------------------->
+
+				<p class="font-weight-bold mb-0">Playlist</p>
+
+				<div class="col-lg-4 pl-3 py-1">
+
+					<ul class="list-unstyled ml-3 mb-3">
+						<li><a href="https://open.spotify.com/track/1AN3Ljpu2jB6fgtWAyU3oW?si=99a23601d30942bd"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Be More Kind" - Frank Turner</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/5pBCrF0gXKLZXj77BdJNh2?si=c57eb5ec735745f9"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Gold" - Owl City</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/78ruX5coF67SqLB9uRnfze?si=fcc68570ac3e45bf"><i class="fas fa-play mr-3"></i><span class="text-muted">"A Friend Like You" - Andy Grammer</span></a></li>
+					</ul>
+
+
+				</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="text-right p-1" style="font-size:10px;">
+	<a class="tooltipster" title="code by coldioc" href="https://toyhou.se/queercatte"><i class="fal fa-star"></i>
+	</a>
+</div>
