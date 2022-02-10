@@ -1,0 +1,216 @@
+<!-- ------------------------------------
+
+
+
+				CODE BY : @coldioc
+
+
+
+------------------------------------- -->
+<div class="mx-auto">
+	<div class="row no-gutters" style="margin:-4px;">
+
+		<!-- ------------------------------------
+
+
+                 LEFT COLUMN
+
+
+------------------------------------- -->
+		<div class="col-lg-3 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<!--  FOCAL IMAGE  ------------------------------------- -->
+				<div class="text-center">
+
+					<img src="https://i.imgur.com/psX0Sd6.gif">
+
+				</div>
+				<hr class="my-3">
+
+
+
+				<!--  INFO  ------------------------------------- -->
+				<div class="mx-0">
+
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pkmn species</span>
+						<span>Goodra</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">age</span>
+						<span>Adult</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">height</span>
+						<span>Average Goodra</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">gender</span>
+						<span>Female</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">pronouns</span>
+						<span>She / Her</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">sexuality</span>
+						<span>Bisexual</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">type</span>
+						<span>Dragon</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">nature</span>
+						<span>Jolly</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">ability</span>
+						<span>Gooey</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">held item</span>
+						<span>None</span>
+					</div>
+
+					<hr class="my-3">
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">designer</span>
+						<span>@Flipside</span>
+					</div>
+
+					<div class="p-1 justify-content-between">
+						<span class="font-weight-bold">worth</span>
+						<span>Not available for trade or sale.</span>
+					</div>
+					
+					<br><br><br><br>
+						<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/31402784_ypvnOSCxFByRZpq.gif?1622752955">
+
+				</div>
+			</div>
+		</div>
+		<!-- ------------------------------------
+
+
+                 RIGHT COLUMN
+
+
+------------------------------------- -->
+
+		<div class="col-lg-9 p-1">
+			<div class="card-block bg-faded text-muted h-100">
+
+
+				<div class="justify-content-between" style="font-size:150%;">
+					<span class="font-weight-bold;">Bianca</span>
+					<span class="text-muted" style="font-style:italic;">Flirty • Sincere • Decisive</span>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- SUMMARY ------------------------------------->
+
+				<p>Bibi has never seen the hidden pokemon valley for herself. Now as a full fledged goodra, she is allowed to venture out safely on her own. She has decided to make the trek to see her older brother Dorian who lives in the hidden valley. Surely she has no other reasons for visiting...</p>
+				<hr class="my-3">
+				<!-- MOVESET ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Moveset</p>
+						<ul>
+							<li>Tearful Look</li>
+							<li>Protect</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold"></p>
+						<ul>
+							<li>Water Pulse</li>
+							<li>Poison Tail</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- LIKES / DISLIKES ------------------------------------->
+
+				<div class="row mt-3">
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Likes</p>
+						<ul>
+							<li>Qualot berries and beverages</li>
+							<li>Petting fur</li>
+							<li>Taking a refreshing waterfall rinse</li>
+						</ul>
+					</div>
+
+					<div class="col-lg-6">
+						<p class="font-weight-bold">Dislikes</p>
+						<ul>
+							<li>Seasickness</li>
+							<li>Being too hot</li>
+							<li>Bitter herbs</li>
+						</ul>
+					</div>
+				</div>
+
+				<hr class="my-3">
+
+				<!-- BOTTOM IMAGE ------------------------------------->
+
+				<img src="https://i.imgur.com/dSkCC6P.png" class="float-right mb-3" style="max-width: 500px">
+
+				<!-- TRIVIA ------------------------------------->
+
+				<p class="font-weight-bold pb-0 mb-0">Trivia</p>
+				<ul>
+					<li>Whenever Bibi gets drunk, she wants to arm wrestle. Which is strange with her slippery goo.</li>
+					<li>Can't seem to control the density of her goo in hot weather.</li>
+					<li>Is extremely proud of her pink shiny like features.</li>
+				</ul>
+
+				<!-- PLAYLIST ------------------------------------->
+
+				<p class="font-weight-bold mb-0">Playlist</p>
+
+				<div class="col-lg-4 pl-3 py-1">
+
+					<ul class="list-unstyled ml-3 mb-3">
+						<li><a href="https://open.spotify.com/track/4TPDqoA9k7jFtdigCgM2VT?si=8826d6ddfe924cd7"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Let's Love" - Echosmith</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/4U38hORPx8SsUAXGumsUYN?si=6041127e17c84775"><i class="fas fa-play mr-3 mb-2"></i><span class="text-muted">"Hold Me Down" - Halsey</span></a></li>
+
+						<li><a href="https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU?si=4174d6fbf5934e5c"><i class="fas fa-play mr-3"></i><span class="text-muted">"Beautiful Mistakes" - Maroon 5, Megan Thee Stallion</span></a></li>
+					</ul>
+
+
+				</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="text-right p-1" style="font-size:10px;">
+	<a class="tooltipster" title="code by coldioc" href="https://toyhou.se/queercatte"><i class="fal fa-star"></i>
+	</a>
+</div>
