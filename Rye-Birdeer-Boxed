@@ -1,0 +1,82 @@
+<div class="container">
+  <div class="row">
+    
+    <!--BANNER-->
+    <div class="col-lg-12 px-2 pb-2 pt-0">
+      <div class="card bg-faded border-0 rounded-0">
+        <div class="card bg-faded border-0 rounded-0 my-3" style="height:150px; background-size:cover; background-position:center; background-image:url('https://i.imgur.com/lRJrjFG.jpg');"></div>
+      </div>
+    </div> <!--banner end-->
+    
+    <!--SIDE IMAGE-->
+    <div class="col-lg-3 px-2 pb-2 pt-0">
+      <div class="card bg-faded border-0 rounded-0 h-100 p-2">
+        <div class="card bg-faded border-0 rounded-0 h-100" style="height:150px; background-size:cover; background-position:top center; background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/images/26150699_xTqITsFNGWVHxTH.png?1622753102');"></div>
+      </div>
+    </div> <!--side image end-->
+    
+    <!--RIGHT COLUMN-->
+    <div class="col-lg-9 px-2 pb-2 pt-0">
+      
+      <!--NAME-->
+      <div class="card bg-faded border-0 rounded-0 px-3 py-2">
+        <h1 class="display-3 text-muted text-uppercase mb-0">Rye</h1>
+      </div> <!--name end-->
+      
+      <!--QUOTE-->
+      <div class="card bg-faded border-0 rounded-0 px-3 py-2 text-center text-muted font-italic mt-2" style="font-size:large;">
+        <p>"Fall down six times, get up seven."<.p>
+      </div> <!--quote end-->
+      
+      <!--META INFO-->
+      <div class="card bg-faded border-0 rounded-0 p-1 mt-2">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-lg-6 p-1">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">AGE</span>
+                  Adult
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">GENDER</span>
+                  Male
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">SPECIES</span>
+                  Birdeer
+                </li>
+              </ul>
+            </div>
+            <div class="col-lg-6 p-1">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">MATE</span>
+                  Unknown
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">OWNER</span>
+                  <a href="#">Wild</a>
+                </li>
+                <li class="list-group-item bg-transparent justify-content-between px-2 py-1">
+                  <span class="text-muted text-uppercase">THEME SONG</span>
+                  <a href="https://open.spotify.com/track/2yELpHAGvhCyVe5txGkFDf?si=335c66943139451d">"Glory" - The Score</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div> <!--meta info end-->
+      
+      <!--PROFILE-->
+      <div class="card bg-faded border-0 rounded-0 p-1 mt-2">
+        <div class="card border-0 rounded-0 p-3">
+          <p>Rye is the first Birdeer I ever created. I kept him for myself as a little mascot character. Rye has "bigger than you" syndrome where he thinks he can take on anyone or anything. When he feels threatened or insulted he puffs himself up and keeps his beak high to look twice his size! Usually it doesn't work and only makes people and creatures alike giggle at the display. Which of course only ruffles his feathers even more... </p>
+        </div>
+      </div> <!--profile end-->
+      
+    </div> <!--right column end-->
+    
+  </div>
+  <a class="pull-right text-muted text-uppercase mr-1" style="font-weight:lighter; font-size:12px;" href="https://toyhou.se/8914636.simply-boxed">Code by AviCode</a>
+</div>
