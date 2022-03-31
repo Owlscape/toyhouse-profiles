@@ -1,0 +1,69 @@
+<div class="container">
+	<div class="row">
+		<!--BANNER-->
+		<div class="col-lg-12 px-2 pb-2 pt-0">
+			<div class="card bg-faded border-0 rounded-0">
+				<div class="card bg-faded border-0 rounded-0 my-3" style="height:150px; background-size:cover; background-position:center; background-image:url('https://i.imgur.com/s93RDDQ.png');">
+					<br>
+				</div>
+			</div>
+		</div>
+		<!--banner end-->
+		<!--SIDE IMAGE-->
+		<div class="col-lg-3 px-2 pb-2 pt-0">
+			<div style="width: 140%;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36388764_o2kFqtkAkKNLolb.png" style="left: -40px;" class="fr-fic fr-dii" width="366" height="413"></div>
+		</div>
+		<!--side image end-->
+		<!--RIGHT COLUMN-->
+		<div class="col-lg-9 px-2 pb-2 pt-0">
+			<!--NAME-->
+			<div class="card bg-faded border-0 rounded-0 px-3 py-2">
+
+				<h1 class="display-3 text-muted text-uppercase mb-0">NAME</h1>
+			</div>
+			<!--name end-->
+			<!--QUOTE-->
+			<div class="card bg-faded border-0 rounded-0 px-3 py-2 text-center text-muted font-italic mt-2" style="font-size:large;">
+
+				<p>&quot;Insert a quote here.&quot;</p>
+			</div>
+			<!--quote end-->
+			<!--META INFO-->
+			<div class="card bg-faded border-0 rounded-0 p-1 mt-2">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-6 p-1">
+
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">AGE</span> Unknown</li>
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">GENDER</span> Unknown</li>
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">SPECIES</span> Unknown</li>
+							</ul>
+						</div>
+						<div class="col-lg-6 p-1">
+
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">CUTIE MARK</span> Unknown</li>
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">PETS</span>
+									<a href="#">Unknown</a></li>
+								<li class="list-group-item bg-transparent justify-content-between px-2 py-1"><span class="text-muted text-uppercase">OCCUPATION</span>
+									Unknown</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--meta info end-->
+			<!--PROFILE-->
+			<div class="card bg-faded border-0 rounded-0 p-1 mt-2">
+				<div class="card border-0 rounded-0 p-3">
+
+					<p>Talk about your character here. This box will not scroll. Duis dictum, nunc in porta facilisis, orci arcu rhoncus sapien, eu convallis leo velit sed urna. Proin mattis sed lacus id varius. In hac habitasse platea dictumst. Vivamus lobortis venenatis dictum. Phasellus a lobortis mi, a tincidunt lacus. Aenean nec feugiat dui. Nullam in luctus nisl. Ut ut velit scelerisque, convallis felis et, posuere ante. In a quam pulvinar, mattis ex sed, lacinia lorem. Quisque venenatis nisl sem, sed commodo eros consequat eleifend. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer egestas iaculis felis sed pretium. Duis cursus mi ut nisi luctus vulputate. In hac habitasse platea dictumst.</p>
+
+					<p>Morbi pretium mi nec nunc pharetra viverra. Etiam lacinia eget lectus nec egestas. Suspendisse ut est elit. Integer dictum sem est, vitae dapibus nibh blandit sed. Ut vehicula lorem eget lorem tincidunt, sed gravida metus tristique. Proin id dapibus ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In hac habitasse platea dictumst. Donec dictum varius ex sit amet porttitor. Sed quis elementum sem, nec luctus nisi.</p>
+				</div>
+			</div>
+			<!--profile end-->
+		</div>
+		<!--right column end-->
+	</div><a class="pull-right text-muted text-uppercase mr-1" href="https://toyhou.se/8914636.simply-boxed" style="font-weight:lighter; font-size:12px;">Code by AviCode</a></div>
